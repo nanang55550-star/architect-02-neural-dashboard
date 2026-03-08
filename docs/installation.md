@@ -18,3 +18,5 @@ cd architect-02-neural-dashboard
 
 # 5. Jalankan
 python architect_v3.py
+
+##Di Linux (Ubuntu/Debian)Di
