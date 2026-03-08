@@ -17,4 +17,10 @@ sudo python architect_v3.py
 Matikan ghost mode di config:
 ```bash
 GHOST_MODE =False
-e
+```
+# Scan kosong / gak ada device
+Cek IP jaringan lo:
+
+```bash
+ip route show
+# Update TARGET_IP di config
