@@ -18,5 +18,19 @@ cd architect-02-neural-dashboard
 
 # 5. Jalankan
 python architect_v3.py
+```
+## Di Linux (Ubuntu/Debian)
+```bash
+# 1. Install dependencies
+sudo apt update
+sudo apt install python3 python3-pip git -y
 
-##Di Linux (Ubuntu/Debian)Di
+# 2. Install Python packages
+pip3 install rich scapy requests
+
+# 3. Clone repository
+git clone https://github.com/nanang55550-star/architect-02-neural-dashboard.git
+cd architect-02-neural-dashboard
+
+# 4. Jalankan
+python3 architect_v3.py
