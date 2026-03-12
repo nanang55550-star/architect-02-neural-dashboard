@@ -5,7 +5,7 @@
 [![Termux](https://img.shields.io/badge/Termux-Compatible-brightgreen)](https://termux.com)
 
 **Real-time Network Monitoring Dashboard with Matrix-style UI**  
-Built for Termux/HP by **@nanang55550-star**
+Built for Termux by **@nanang55550-star**
 
 ---
 
